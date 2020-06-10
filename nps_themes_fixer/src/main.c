@@ -1,8 +1,6 @@
 #include <psp2/kernel/threadmgr.h>
 #include <psp2/kernel/processmgr.h>
 #include <psp2/io/fcntl.h>
-#include <stdio.h>
-
 #include "debugScreen.h"
 
 #define printf psvDebugScreenPrintf
