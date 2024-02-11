@@ -5,7 +5,7 @@ CC := arm-vita-eabi-gcc
 CXX := arm-vita-eabi-g++
 STRIP := arm-vita-eabi-strip
 
-PROJECT_TITLE := NPS Themes Fixer
+PROJECT_TITLE := NPS Themes Fixer v2.0
 PROJECT_TITLEID := NPSTHMFXR
 
 PROJECT := nps_themes_fixer
